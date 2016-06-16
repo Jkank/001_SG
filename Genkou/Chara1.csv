@@ -3,12 +3,12 @@ out_data_folder,..\Outfiles\chara01\,,,,end
 name_human,アレス,chara_ID,1,,end
 name_succubus,アリス,seiyokumax,100,,end
 max_MP,6,6,8,9,end
-tachie_x,-60,-60,-90,-100,end
+tachie_x,-80,-95,-105,-110,end
 tachie_y,0,0,20,0,end
 hyojo_x,200,218,250,200,end
 hyojo_y,40,73,155,40,end
-big_h_x,400,451,546,400,end
-big_h_y,80,159,142,80,end
+big_h_x,406,444,470,404,end
+big_h_y,96,163,325,99,end
 step,FALSE,FALSE,FALSE,TRUE,end
 kojo_start,私にはやらねばならぬことがある・・・,・・・たとえ女の身になろうと、,はぁ・・・はぁ・・・負け・・・ない・・・！,このカラダの気持ちよさ・・・あふれ出る力♪,end
 ,悪いが、ここは勝たせてもらう！,私は私の為すべきことを為す・・・,私はこの恐ろしい魔物達の存在を・・・,"早くこのことを教会に""報告""したいわぁ♪",end
