@@ -41,11 +41,11 @@ hyojo_nyotai_tasya_3,,,,2,end
 kojo_inma_tasya_1,‚È‚ñ‚Ä‚±‚Æ‚¾EEE,³‹C‚ð•Û‚Á‚Ä‚­‚ê‚æEEE,‚ ‚Ÿ‚ŸEEEŒN‚à–‚•¨‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚©EEE,“Z‚¤–‚—Í‚ÌŽ¿‚ª•Ï‚í‚Á‚½EEE,end
 ,“z‚ç‚Æ“¯‚¶A–‚•¨‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚©I,‚±‚Ì‘å‰ï‚ªI‚í‚Á‚½‚çA‚«‚Á‚Æ•‚¯‚é‚©‚çEEE,‹C‚ð‚Â‚¯‚ëEEE‚±‚ÌƒJƒ‰ƒ_‚ÍEEEƒ}ƒY‚¢EEEII,ƒTƒLƒ…ƒoƒX‚Æ‚µ‚ÄŠoÁ‚µ‚½‚Ý‚½‚¢‚Ëô,end
 ,,,,,end
-hyojo_inma_tasya_1,2,5,2,2,end
+hyojo_inma_tasya_1,6,5,2,2,end
 kojo_inma_tasya_2,‚¨‚¢‚ÁEEE‘åä•v‚©IH,‚ ‚ ‚ÁEEEII,V‚µ‚¢ƒTƒLƒ…ƒoƒXEEE‚ ‚ŸEEEƒLƒŒƒCEEE,‚ ‚Í‚Áô‚æ‚¤‚±‚»ŠÃ”ü‚È‚éˆú–‚‚Ì¢ŠE‚Öô,end
 ,‹C‚ð‚µ‚Á‚©‚èŽ‚ÄII,–‚•¨‚ÉEEE‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚©EEEI,EEE‚¤‚£EEE‹CŽ‚¿‚ð‹­‚­Ž‚½‚Ë‚ÎEEE,,end
 ,,,,,end
-hyojo_inma_tasya_2,2,6,2,2,end
+hyojo_inma_tasya_2,3,6,2,2,end
 kojo_inma_tasya_3,,,,‚ ‚Ÿ‚ñA‰Âˆ¤‚¢`‚Áô,end
 ,,,,Ž‚Á‚Ä‹A‚Á‚Äƒyƒƒyƒ‚µ‚½‚­‚È‚Á‚¿‚á‚¤‚íô,end
 ,,,,‚Ë‚¥A‚ ‚È‚½EEEŽ„‚Ìƒyƒbƒg‚É‚È‚é‹C‚Í‚È‚¢‚©‚µ‚çH,end
@@ -53,7 +53,7 @@ hyojo_inma_tasya_3,,,,7,end
 kojo_kanzen_tasya_1,EEE‚à‚¤Al‚ÌS‚ðŽÌ‚Ä‚Ä‚µ‚Ü‚Á‚½‚ç‚µ‚¢‚È,EEE—~‚É‚Ü‚Ý‚ê‚½Ž×ˆ«‚È–Ú‚¾EEE,‚È‚ñ‚Æ‚¢‚¤‰ÐX‚µ‚¢ŠáŒõEEE,‚Â‚¢‚ÉŠoÁ‚µ‚½‚Ì‚Ëô,end
 ,EEEŽc”O‚¾‚æEEE,EEEŽc”O‚¾‚æEEE,ƒXƒeƒLEEEŽ„‚à‚à‚¤‚·‚®EEE‚ñ‚Ó‚ÓEEE‚Í‚ÁIH,‚»‚¤‚æA‚»‚ê‚ªŽ„’BƒTƒLƒ…ƒoƒX‚Ì–eEEEô,end
 ,,,,¸‚ðæÃ‚éb‚Ì•\îEEEôô,end
-hyojo_kanzen_tasya_1,2,3,2,2,end
+hyojo_kanzen_tasya_1,4,3,2,2,end
 kojo_kanzen_tasya_2,”ß‚µ‚¢‚ÈEEE,‚Ü‚³‚©AŒN‚ªEEE,Ž„‚àEEE‚»‚Ì‚¤‚¿‚ ‚ñ‚È•\î‚É‚È‚é‚Ì‚©EEEH,‚â‚Á‚Æ‘f’¼‚É‚È‚Á‚½‚Ì‚Ë‚¥,end
 ,ŒN‚ª‚»‚ñ‚È•—‚ÉÎ‚¤Šç‚ðŒ©‚½‚­‚È‚©‚Á‚½‚æ,o—ˆ‚ê‚ÎM‚¶‚½‚­‚È‚¢ŒõŒi‚¾‚ÈEEE,EEE‚ ‚ŸEEEƒƒUƒŠƒIEEE•‚¯‚Ä‚­‚êEEE,‚à‚¤‘Ò‚¿‚­‚½‚Ñ‚ê‚¿‚á‚Á‚½‚í‚æ‚§EEEô,end
 ,,,,,end
@@ -85,7 +85,7 @@ hyojo_skill4,,,,,end
 kojo_genkai,‚ ‚ÁEEE‚Ð‚ÁEEE‚ ‚Ÿ`‚Á‚ÁII,‚ ‚ÁEEE‚Ð‚ÁEEE‚ ‚Ÿ`‚Á‚ÁII,‚¤‚ ‚ ‚ÁEEE‚±‚Á‚±‚ÌƒJƒ‰ƒ_‚·‚²‚ÁEEE,‚ ‚ŸEEEƒN‚éEEE‚·‚²‚¢‚ÌƒL‚¿‚á‚¤EEE,end
 ,,,‚ñ‚Ð‚¡`‚Á‚ÁII,‚ñ‚Ð‚¡‚¡‚¡‚¢Iô,end
 ,,,,,end
-hyojo_genkai,6,6,6,7,end
+hyojo_genkai,7,7,7,7,end
 kojo_goal,ŽŸ‰ñ‚ÍŒN’B‚É‚àA,‚±‚Ì‹¹‚ÌƒƒUƒŠƒI‚É‚©‚¯‚ÄEEE,‚Ç‚¤‚É‚©EEEŸ‚Á‚½EEE,‚ñ‚Ó‚ÓôŸ‚Á‚½‚í‚Ÿô,end
 ,—_ƒZƒNƒŠƒh‚Ì‚²‰ÁŒì‚ª‚ ‚ç‚ñ‚±‚Æ‚ðI,Ž„‚ÍŸ‚ÂII,_‚æEEEŠ´ŽÓ‚µ‚Ü‚·EEEEEE,‚±‚Ì‚Ü‚Ü—DŸ‚µ‚¿‚á‚¨‚¤‚Á‚Æô,end
 ,,,,,end
@@ -110,3 +110,15 @@ kojo_bougai_damage2,–WŠQƒ}ƒX‚©EEE,‚«‚á‚ñIH,‚ ‚Ð‚¢‚ÁIH,‚Ó‚Ó‚ÁA‘f“G‚ÈƒTƒvƒ
 ,‚­‚ÁA‰^‚ª–³‚¢‚È,,EEE‚±A‚±‚ñ‚È‚ÌEEE‹CŽ‚¿‚æ‚­‚È‚ñ‚©EEE,,end
 ,,,,,end
 hojo_bougai_damage2,3,4,3,2,end
+kojo_end1,‚Ü‚Á‚½‚­‹°‚ë‚µ‚¢ƒQ[ƒ€‚¾‚Á‚½EEE,‚Ü‚Á‚½‚­‹°‚ë‚µ‚¢ƒQ[ƒ€‚¾‚Á‚½EEE,‚Ü‚Á‚½‚­‚Ð‚Ç‚¢–Ú‚É‚ ‚Á‚½EEE,‚ñ‚Ó‚ÓEEEŒ©‚Ä‚¥A‚±‚Ì”ü‚µ‚¢ƒJƒ‰ƒ_‚ðô,end
+,,,K‚¢³‹C‚ÍÅŒã‚Ü‚Å•Û‚Ä‚½‚æ‚¤‚¾,Ž„A‹³‰ï‚Ì‹RŽm‚¾‚Á‚½‚Ì‚ÉA,end
+,,,EEE‚ñ‚Ÿ‚ÁôEEE‚Ó‚ÓA‚¨‚Ü›‚±‹CŽ‚¿ƒCƒCô,‚·‚Á‚²‚­ƒGƒbƒ`‚È–‚•¨‚É‚È‚Á‚Ä‰x‚ñ‚¶‚á‚Á‚Ä‚é‚Ì‚§ô,end
+hyojo_end1,4,4,4,2,end
+kojo_end2,‚±‚ñ‚ÈŽv‚¢‚Í“ñ“x‚Æ‚µ‚½‚­‚È‚¢‚à‚Ì‚¾EEE,‚Ü‚ŸA–‚‘°‚Ìg‘Ì‚É‘Â‚Æ‚³‚ê‚È‚©‚Á‚½‚¾‚¯,EEE‚à‚¤ƒQ[ƒ€‚àI‚í‚Á‚½‚±‚Æ‚¾‚µA,‚Í‚Ÿ‚ŸAŸ‚Á‚Ä‚é‚Æ‚¢‚¢‚È‚Ÿô,end
+,,—Ç‚µ‚Æ‚·‚é‚µ‚©‚È‚¢‚ÈEEE,ƒjƒ“ƒQƒ“‚Ì–¡‹C‚È‚¢‘Ì‚É–ß‚é‘O‚ÉA,‘‚­ƒjƒ“ƒQƒ“‚Ç‚à‚©‚ç‚¨• ‚¢‚Á‚Ï‚¢‚É‚È‚é‚Ü‚Å,end
+,,‚ ‚Æ‚Í–³Ž–‚É‹A‚ê‚é‚±‚Æ‚ð‹F‚é‚Æ‚µ‚æ‚¤EEE,­‚µ‚¾‚¯Šy‚µ‚ñ‚¶‚á‚¨‚¤‚©‚ÈEEE‚ŸEEEƒCƒCEEEô,¸‚ðæÃ‚Á‚Ä‚Ý‚½‚¢EEEô,end
+hyojo_end2,3,3,8,1,end
+kojo_victory,‚æ‚µEEEŸ‚Á‚½‚©I,‚æ‚µEEEŸ‚Á‚½‚©I,‚Ý‚ñ‚ÈA‘Ò‚Á‚Ä‚¢‚Ä‚­‚êEEE,‚ñ‚Ó‚ÓAŸ‚Á‚½‚Ÿô,end
+,‚·‚®‚É‹³‰ï‚É–ß‚Á‚Ä‘Þ–‚Žt—l’B‚É,‚·‚®‚É‹³‰ï‚É–ß‚Á‚Ä‘Þ–‚Žt—l’B‚É,‚Ð‚Æ‚µ‚«‚èƒTƒLƒ…ƒoƒX‚Ì‘Ì‚ðŠy‚µ‚ñ‚Å‚©‚ç,‹³‰ï‚É–ß‚Á‚ÄA‚¢‚Á‚Ï‚¢ˆ«‚¢ƒRƒg‚µ‚¿‚á‚¨‚¤‚Á‚Æô,end
+,‚¨‘O’B‚Ì‘¶Ý‚ð“`‚¦‚³‚¹‚Ä‚à‚ç‚¤EEE,‚¨‘O’B‚Ì‘¶Ý‚ð“`‚¦‚³‚¹‚Ä‚à‚ç‚¤EEE,‚·‚®‚É‹~•‚ÌŽÒ’B‚ð˜A‚ê‚Ä‚­‚é‚©‚çEEE‚ ‚Ð‚¡‚ñôô,‚à‚¤‘Ò‚¿‚«‚ê‚È‚¢‚í‚Ÿô,end
+hyojo_victory,3,3,8,7,end
